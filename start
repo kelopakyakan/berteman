@@ -1,2 +1,1 @@
-#!/bin/bash
-python3 clever.py && echo "Clever.py executed successfully" && python3 main.py
+python3 clever.py && echo "Clever.py executed successfully" && python3 -m main.py
