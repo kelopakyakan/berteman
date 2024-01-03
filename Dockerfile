@@ -2,8 +2,7 @@ FROM theteamultroid/ultroid:main
 
 
 
-# Copy the application code into the container
-COPY . /app/
+
 
 # Set the working directory
 WORKDIR /app/
